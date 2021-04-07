@@ -1,5 +1,6 @@
 # Minimisation-of-antibiotics-in-patients-with-COVID-19
 
+![newplot](https://user-images.githubusercontent.com/75216349/113827979-8f47e000-978c-11eb-8851-d99ab2e0c7b6.png)
 
 In clinical practice, the prescription of antibiotics requires indications: the presence of a proven or highly probable presence of bacterial flora that causes an infectious process. In the meantime, there is no need to know about it. 
 
