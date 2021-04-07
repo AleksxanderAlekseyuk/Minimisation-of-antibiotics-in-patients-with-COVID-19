@@ -1,6 +1,6 @@
 # Minimisation-of-antibiotics-in-patients-with-COVID-19
 
-![newplot](https://user-images.githubusercontent.com/75216349/113827979-8f47e000-978c-11eb-8851-d99ab2e0c7b6.png)
+
 
 In clinical practice, the prescription of antibiotics requires indications: the presence of a proven or highly probable presence of bacterial flora that causes an infectious process. In the meantime, there is no need to know about it. 
 
@@ -8,16 +8,18 @@ Typical pneumonia (pneumonia) in 95% of cases is caused by a bacterial infection
 
 In viral infections, antibiotics are not indicated, because there is no point of application of this group of drugs, however, on the other hand, when the bacterial flora is attached, antimicrobial drugs are indicated, because it has been proven that they improve the prognosis in this category of patients. In the meantime, there is no need to know about it. ”
 
+
 Thus, there is a circumstance that dictates the doctor to prescribe antibacterial agents if it is impossible to exclude the presence of bacterial flora in patients with viral infections.
 
 To some extent, the solution to the problem of unjustified antibiotic therapy is to study the level of procalcitonin
 
-An increase in the level of procalcitonin in the blood above 0.5 ng / ml indicates the development of a bacterial infection (sensitivity - 80–95%, specificity - 88–93%) !!!
+An increase in the level of procalcitonin in the blood above 0.5 ng / ml indicates the development of a bacterial infection (sensitivity - 80–95%, specificity - 88–93%)
 
 However, the availability of this analysis is a significant limitation of this solution, therefore, there is a need to find a method that would allow determining indications for antibiotic therapy in addition to the level of procalcitonin.
 
+Prescribing antibacterial agents to patients with coronavirus in Grodno Regional Hospital:
 
-
+![newplot](https://user-images.githubusercontent.com/75216349/113827979-8f47e000-978c-11eb-8851-d99ab2e0c7b6.png)
 
 The purpouse: Build a machine learning model that can minimize the number of prescribed antibiotics with zero false negatives
 # Availible data:
