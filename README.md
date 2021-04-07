@@ -21,6 +21,8 @@ Prescribing antibacterial agents to patients with coronavirus in Grodno Regional
 
 ![newplot](https://user-images.githubusercontent.com/75216349/113827979-8f47e000-978c-11eb-8851-d99ab2e0c7b6.png)
 
+It shows that more that 95 % patients are getting antibiotics. World statitics shows only 8-15% cases where there are indications for antimicrobial treatment!
+
 The purpouse: Build a machine learning model that can minimize the number of prescribed antibiotics with zero false negatives
 # Availible data:
 ВЫПИСНОЙ ЭПИКРИЗ № 170 Находился(ась) в пульмонологическом отделении ГОКБ МР Ф.И.О:*** Дата рождения:02.08.1966 Адрес регистрации:*** Адрес проживания: **Место работы:** Должность: Поступил: 13.01.2021 Выписан: 26.01.2021​
